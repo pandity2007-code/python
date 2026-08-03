@@ -29,8 +29,19 @@ b = 4567
 print(a<=b)
 
 # Logical operators - AND , OR, NOT
-a = 3
-b = 4
-c = 7
 
+e = True or False  
 
+# Truth table of or
+print("True or False is :",True or False )
+print (" True or True is :",True or True)
+print ("False or True is :",False or True)
+print ("False or False is :", False or False) 
+
+# truth table of and 
+
+f= True and False
+print("True and False is :",True and False )
+print("True and True is :",True and True )
+print("False and True is :",False and True )
+print("False and False is :",False and False )
