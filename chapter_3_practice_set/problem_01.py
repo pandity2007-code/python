@@ -2,4 +2,6 @@
 
 name = input("enter your name:")
 
-print("Good Morning !",name)
+
+#using f string
+print(f"Good Morning {name} ")
