@@ -4,4 +4,5 @@ def goodday(name,ending="thankyou"):
     print(ending)
   
 
-goodday("yash","thanks")
+goodday("yash") # ending will be "thankyou in function body (default)"
+goodday("yash","thanks") #ending will be "thanks" in function body (passed)
