@@ -7,4 +7,7 @@ class programmer:
         self.pin=pin
 
 p=programmer("yash",100000,202140)  
-print(p.name,p.salary,p.pin,p.company)        
+print(p.name,p.salary,p.pin,p.company) 
+
+r=programmer("rohan",100000,202142)  
+print(r.name,r.salary,r.pin,r.company)        
