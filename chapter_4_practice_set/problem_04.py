@@ -13,4 +13,4 @@ number.append(n4)
 n5 = int(input("enter number 5th :"))
 number.append(n5)
 
-print("sum is :",sum(number))
+print("sum is = :",sum(number))
