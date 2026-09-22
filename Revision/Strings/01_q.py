@@ -1,4 +1,4 @@
-name = "Yash Pandit"
+name = "Yash saraswat"
 
 print("First character:", name[0])
 print("Last character:", name[-1])
